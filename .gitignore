@@ -1,3 +1,4 @@
 *.ipynb_checkpoints
 *.DS_Store
 Data.xlsx
+~$Data.xlsx
