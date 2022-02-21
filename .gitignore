@@ -2,3 +2,12 @@
 *.DS_Store
 Data.xlsx
 ~$Data.xlsx
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
