@@ -11,3 +11,4 @@ Data.xlsx
 *.out
 *.synctex.gz
 *.toc
+processedData.csv
